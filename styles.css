@@ -3,17 +3,45 @@
     src: url(font/panpizza.woff);
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;1,300&display=swap');
+
+body{
+    font-family: panpizza;
+}
+
 .md-bg-pizzaria{
     background: url(img/bg-pizzaria.jpg) no-repeat center center / cover;
     height: 1200px;
 }
 
-.md-titulos{
+.md-font-pizza{
     font-family: panpizza;
+}
+
+.md-font-lato{
+    font-family: Lato;
+}
+
+.md-titulos-geral{
     color: white;
+    height: 52px;
     font-size: 52px;
 }
 
+.md-titulos-sabor{
+    color: white;
+    height: 24px;
+    font-size: 24px;
+}
+
+.md-descricao-sabor{
+    padding: 0 8px 0 8px;
+    font-size: 14px;
+}
+
+.text-color-1{
+    color: #FFA800;
+}
 .md-bg-s1{
     background: url(img/bg-s1.jpg) no-repeat center center / cover;
     height: 260px;
@@ -27,8 +55,6 @@
     height: 200px;
     border-radius: 12px 12px 0 0;
 }
-
-
 
 .shadow-section{
     box-shadow: 0px -10px 15px rgba(0, 0, 0, 0.8);
