@@ -1,10 +1,15 @@
-
-.md-logo-pizzaria{
-    width: 500px;
-    height: 500px;
+.md-bg-pizzaria{
+    background: url(img/bg-pizzaria.jpg) no-repeat center center / cover;
+    height: 1200px;
 }
 
+.md-bg-s1{
+    background: url(img/bg-s1.jpg) no-repeat center center / cover;
+}
 
+.md-logo-pizzaria{
+    
+}
 /***Cores *****/
 .md-bg-geral{
     background-color: #333333;
