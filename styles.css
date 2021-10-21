@@ -38,6 +38,15 @@ body{
     font-size: 14px;
 }
 
+.md-texto-22px{
+    height: 22px;
+    font-size: 22px;
+}
+
+.md-texto-24px{
+    font-size: 24px;
+}
+
 .text-color-1{
     color: #FFA800;
 }
@@ -89,9 +98,23 @@ body{
 .md-logo-pizzaria{
     width: 260px;
 }
+
+.md-logo-pizzaria-footer{
+    width: 100px;
+}
 /***Cores *****/
 .md-bg-geral{
     background-color: #333333;
 }
 
 /***Fim Cores *****/
+
+.md-mb-16px{
+    margin-bottom: 16px;
+}
+
+
+
+.md-pb-16px{
+    padding-bottom: 16px;
+}
