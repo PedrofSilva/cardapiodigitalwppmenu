@@ -30,19 +30,19 @@ body{
 .md-titulos-sabor{
     color: white;
     height: 32px;
-    font-size: 32px;
+    font-size: 36px;
 }
 
 .md-valor-sabor{
     color: white;
     height: 32px;
     margin-top: -6px;
-    font-size: 32px;
+    font-size: 36px;
 }
 
 .md-descricao-sabor{
     padding: 0 8px 0 8px;
-    font-size: 16px;
+    font-size: 18px;
 }
 
 .md-texto-22px{
