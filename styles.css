@@ -59,7 +59,9 @@ body{
 }
 
 .md-bg-s1{
-    background: url(img/bg-s1.jpg) no-repeat center center / cover;
+    background: url(img/bg-s1.jpg);
+    background-size: 100% 240px;
+    background-attachment: fixed;
     height: 200px;
 }
 
