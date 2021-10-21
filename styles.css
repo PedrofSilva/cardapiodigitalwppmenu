@@ -29,20 +29,20 @@ body{
 
 .md-titulos-sabor{
     color: white;
-    height: 24px;
-    font-size: 24px;
+    height: 32px;
+    font-size: 32px;
 }
 
 .md-valor-sabor{
     color: white;
-    height: 24px;
+    height: 32px;
     margin-top: -6px;
-    font-size: 24px;
+    font-size: 32px;
 }
 
 .md-descricao-sabor{
     padding: 0 8px 0 8px;
-    font-size: 14px;
+    font-size: 16px;
 }
 
 .md-texto-22px{
